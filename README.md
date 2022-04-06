@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Unity, Unreal
+- 🌱 I’m currently learning C#, C++, Unity, Unreal
 - 👯 I’m looking to collaborate on game develop
 - 💬 contact : wkddj777@gmail.com, unagi11@naver.com
 
