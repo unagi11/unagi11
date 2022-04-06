@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning Unity, Unreal
 - 👯 I’m looking to collaborate on game develop
-- 💬 contact : wkddj777@gmail.com
+- 💬 contact : wkddj777@gmail.com, unagi11@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi11&count_private=true&theme=dark)
 <!--
