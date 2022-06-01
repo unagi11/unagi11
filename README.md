@@ -1,5 +1,6 @@
 - 🌱 I’m currently learning C#, C++, Unity, Unreal
 - 👯 I’m looking to collaborate on game develop
+- 😄 profile : https://programmers.co.kr/pr/246235_1283
 - 💬 contact : wkddj777@gmail.com, unagi11@naver.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unagi11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
