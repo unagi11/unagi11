@@ -2,7 +2,11 @@
 - 👯 I’m looking to collaborate on game develop
 - 💬 contact : wkddj777@gmail.com, unagi11@naver.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unagi11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi11&count_private=true&theme=dark)
+
+
 <!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unagi11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
