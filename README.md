@@ -8,6 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi11&count_private=true&theme=dark)
 
+<a href="https://opgc.me/#/users/unagi11" target="_blank"><img src="https://api.opgc.me/githubs/users/unagi11/tag/?theme=basic" /></a>
 
 <!--
 
