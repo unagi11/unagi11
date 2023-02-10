@@ -1,14 +1,17 @@
-- 🌱 I’m currently learning C#, C++, Unity, Unreal
-- 👯 I’m looking to collaborate on game develop
+### Eiguk Jang
 - 😄 profile : https://programmers.co.kr/pr/246235_1283
 - 📫 tech blog : https://unagi11.tistory.com/
 - 💬 contact : wkddj777@gmail.com, unagi11@naver.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unagi11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Work Experience
+ - SuperCreativeInc. Game Content Programmer (2022.08 ~ current)
+ - CrossLabInc. Unity Programmer (2022.01 ~ 2022.02) (internship)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi11&count_private=true&theme=dark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unagi11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://opgc.me/#/users/unagi11" target="_blank"><img src="https://api.opgc.me/githubs/users/unagi11/tag/?theme=basic" /></a>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unagi11&count_private=true&theme=dark) -->
+
+<!-- <a href="https://opgc.me/#/users/unagi11" target="_blank"><img src="https://api.opgc.me/githubs/users/unagi11/tag/?theme=basic" /></a> -->
 
 <!--
 
