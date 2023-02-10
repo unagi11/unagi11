@@ -4,8 +4,8 @@
 - 💬 contact : wkddj777@gmail.com, unagi11@naver.com
 
 ### Work Experience
- - SuperCreativeInc. Game Content Programmer (2022.08 ~ current)
- - CrossLabInc. Unity intern Programmer (2022.01 ~ 2022.02)
+ - SuperCreativeInc. Game Content Programmer ( 2022.08 ~ 🏃‍♂️ )
+ - CrossLabInc. Unity intern Programmer ( 2022.01 ~ 2022.02 )
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unagi11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
