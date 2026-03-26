@@ -1,5 +1,5 @@
 ### Eiguk Jang
-- 😄 profile : https://programmers.co.kr/pr/246235_1283
+- 😄 profile : https://unagi11.github.io/portfolio/
 - 📫 tech blog : https://unagi11.tistory.com/
 - 💬 contact : wkddj777@gmail.com, unagi11@naver.com
 
