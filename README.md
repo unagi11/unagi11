@@ -1,5 +1,5 @@
 ### Eiguk Jang
-- 😄 profile : https://unagi11.github.io/portfolio/
+- 😄 profile : [https://unagi11.github.io/profile/](https://unagi11.github.io/profile/)
 - 📫 tech blog : https://unagi11.tistory.com/
 - 💬 contact : wkddj777@gmail.com, unagi11@naver.com
 
